@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Title</h1>
+    <p>
+        asdadsadasdasdasdasdassd <br>
+        <b>asdadsasdasd</b>asdasdasdasdasd <br>
+    </p>
+    <hr>
+    <p>asdasdasdasdasdasdad <br>
+        <b><i>adasdsadasdasdas</i></b>asdasd <br>
+        safsafsafsafsasa <br>
+
+
+    </p>
+     <a href="https://www.google.com/"></a>
+     <img src="https://en.wikipedia.org/wiki/Globe#/media/File:World_Globe_Map.jpg"
+      alt="globe" height="200px" width="250px">
+      <script src="sourse.js"></script>
+</body>
+</html>
