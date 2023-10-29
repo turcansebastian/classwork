@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+     <title>Home</title>
+
+
+ <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+   <a href="about.html">About</a>
+
+<h1 >Classwork about CSS Multipage</h1>
+
+<h1 class="head1">heading 2</h1>
+
+<h1 id="head2">heading 3</h1>
+
+</body>
+
+</html>
+
+(css)
+body {
+     background-color:yellow;
+}
+
+
+h1 {
+
+   text-align: center;
+}
+
+.head1 {
+    background-color:aqua;
+}
+
+#head2{
+
+    background-color: red;
+
+    color: white;
+}
+
+(about.html)
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <title>About</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <a href="index.html">Home</a>
+
+    <h1>Classwork 2 about CSS Multipage</h1>
+
+</body>
+
+</html>
