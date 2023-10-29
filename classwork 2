@@ -1,0 +1,42 @@
+
+<body>
+
+<a href="index.htal">Home</a><br>
+
+<a href="htal2.htal">TML 2 tasks</a>
+
+<ul>
+
+   <li>l</li>
+   <li>l</li>
+   <li>l</li>
+</ul>
+
+<ol>
+
+   <li>l</li>
+   <li>l</li>
+   <li>l</li>
+</ol>
+
+<table border="1">
+   <tr>
+       <th>Name</th>
+       <th>Surame</th>
+   </tr>
+   <tr>
+       <td>Name1</td>
+       <td>Surname</td>
+   </tr>
+   <tr>
+       <td>Name2</td>
+       <td>Surname2</td>
+   </tr>
+</table>
+
+
+
+<h1 style="background-color: aqua;font-size: 35;color: Oblack; text-align: center;">
+<h1 style="background-color: rgb(143, 255, 121):">hello</hi>
+
+<h1 style="background: #fBec41;">hello</h1>
